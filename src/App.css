@@ -1,0 +1,62 @@
+* {
+  background-color: blanchedalmond;
+}
+@media (max-width: 800px) {
+  * {
+    background-color: red;
+    text-align: center;
+    display: relative;
+  }
+  .top {
+    width: 200px;
+    margin-left: 10px;
+    height: 200px;
+    text-align: center;
+  }
+}
+.heading {
+  display: relative;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.top2 {
+  background-color: white;
+}
+
+.top {
+  width: 430px;
+  height: 350px;
+  background-color: white;
+  display: inline-table;
+  margin-top: 20px;
+  border: 5px solid whitesmoke;
+  border-radius: 15px;
+  border-color: white;
+  margin-left: 50px;
+}
+.info {
+  margin-top: 40px;
+  display: relative;
+  text-align: center;
+  background-color: white;
+  font-size: medium;
+  opacity: 0.6;
+}
+.Name {
+  opacity: 0.7;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  background-color: white;
+  display: relative;
+  text-align: center;
+  margin-top: 20px;
+  color: teal;
+}
+.view {
+  margin-top: 10px;
+  display: relative;
+  text-align: center;
+  background-color: white;
+  font-size: 40px;
+}
