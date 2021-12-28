@@ -1,1 +1,1 @@
-Just for using gitHub.
+Just for using gitHub with VS Code.
